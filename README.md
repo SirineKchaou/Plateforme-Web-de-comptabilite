@@ -18,8 +18,8 @@ clients, les fournisseurs, les factures, les opérations bancaires et les opéra
 1. Clonez le dépôt du projet :
 
     ```bash
-    git clone https://github.com/votre-utilisateur/votre-projet.git
-    cd votre-projet/backend
+    git clone https://github.com/SirineKchaou/Plateforme-Web-de-comptabilite.git
+    cd Plateforme-Web-de-comptabilite/back-end
     ```
 
 2. Installez les dépendances avec Composer :
@@ -31,7 +31,7 @@ clients, les fournisseurs, les factures, les opérations bancaires et les opéra
 3. Configurez votre base de données dans le fichier `.env` :
 
     ```ini
-    DATABASE_URL="mysql://db_user:db_password@127.0.0.1:3306/db_name"
+    DATABASE_URL="mysql://root:@127.0.0.1:3306/xtensus?serverVersion=11.3.2-MariaDB&charset=utf8mb4"
     ```
 
 4. Créez la base de données et les tables :
@@ -52,7 +52,7 @@ clients, les fournisseurs, les factures, les opérations bancaires et les opéra
 1. Accédez au répertoire frontend :
 
     ```bash
-    cd ../frontend
+    cd ../front-end
     ```
 
 2. Installez les dépendances avec npm :
