@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AngularInvalidImportedOrDeclaredSymbol" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
+    <inspection_tool class="AngularUndefinedBinding" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="57" name="PHP" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PhpHierarchyChecksInspection" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
+    <inspection_tool class="TypeScriptValidateTypes" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+  </profile>
+</component>
