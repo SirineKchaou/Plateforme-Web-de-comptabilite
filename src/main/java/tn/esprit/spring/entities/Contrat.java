@@ -18,7 +18,8 @@ public class Contrat implements Serializable {
 	
 
 	/**
-	 * 
+	 *
+	 * sirine
 	 */
 	private static final long serialVersionUID = 1L;
 
